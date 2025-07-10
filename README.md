@@ -15,4 +15,3 @@ Display Patient Bill – Show the total consultation charge for an individual pa
 
 Exit Application – Gracefully terminate the application.
 
-🧱 Modular Structure:
