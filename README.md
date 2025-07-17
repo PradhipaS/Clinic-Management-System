@@ -1,6 +1,6 @@
 # Clinic-Management-System
-Clinic Management System – Console-Based Application using Core Java &amp; OOP
-his project aims to build a menu-driven console application to help clinic administrators manage patient records efficiently. It leverages Core Java and Object-Oriented Programming (OOP) concepts including inheritance, abstraction, encapsulation, and method overriding.
+Clinic Management System – Console-Based Application using Core Java &amp; OOPS
+This project aims to build a menu-driven console application to help clinic administrators manage patient records efficiently. It leverages Core Java and Object-Oriented Programming (OOP) concepts including inheritance, abstraction, encapsulation, and method overriding.
 
 🛠️ Key Functionalities:
 The application allows the Admin to:
